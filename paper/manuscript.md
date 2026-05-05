@@ -229,8 +229,11 @@ The open-source implementation is available at:
 
 ## Acknowledgments
 
-This work builds upon the foundational research by Prof. A.K.M. Joukhadar and collaborators on the Bees Algorithm and sensorless control systems.
+This work builds upon the foundational research by Prof. A.K.M. Joukhadar and collaborators on the Bees Algorithm and sensorless control systems. The implementation was developed following a systematic research methodology with appropriate documentation, stress testing, and reproducibility controls.
+
+The open-source implementation is available at:
+**https://github.com/molhamfetnah/swarm-path-planning-bees**
 
 ---
 
-*Manuscript prepared for submission to IEEE/RSJ IROS 2026*
+*Manuscript prepared for arXiv preprint submission. To be followed by journal submission.*
