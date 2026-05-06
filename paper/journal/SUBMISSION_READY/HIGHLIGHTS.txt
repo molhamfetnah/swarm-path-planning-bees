@@ -1,0 +1,38 @@
+HIGHLIGHTS - Submission to Applied Soft Computing
+===================================================
+
+These are 3-5 bullet points summarizing the key contributions (required by Elsevier):
+
+1. Modernized Bees Algorithm with adaptive parameter tuning for robotics path planning
+2. Multi-objective optimization balancing path length, safety, smoothness, and energy consumption
+3. Real-time dynamic obstacle handling achieving 100% success rate across 6 benchmark scenarios
+4. Comprehensive evaluation with 180 test runs (30 per scenario)
+5. Open-source implementation with ROS/Gazebo integration for robotics applications
+
+---
+
+MANUSCRIPT INFORMATION
+=====================
+
+Title: Modernized Bees Algorithm for Dynamic Path Planning in Robotics
+
+Author: Mulham Fetnah
+- Email: mulham.fetna@alepuniv.edu.sy
+- Affiliation: University of Aleppo, Department of Mechatronics Engineering, Syria
+
+Keywords: Bees Algorithm, Path Planning, Swarm Intelligence, Robotics, Dynamic Obstacles, Multi-Objective Optimization
+
+Corresponding Author: Mulham Fetnah (sole author)
+
+---
+
+SUBMISSION CHECKLIST
+====================
+
+[ ] Manuscript uploaded (PDF/DOCX)
+[ ] Cover letter uploaded
+[ ] Highlights provided (above)
+[ ] Declaration of conflict of interest signed
+[ ] Data availability statement included (GitHub link)
+[ ] No prior submission to other journals
+[ ] All authors consent to submission

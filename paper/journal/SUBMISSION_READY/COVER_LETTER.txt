@@ -1,0 +1,71 @@
+COVER LETTER - Applied Soft Computing
+=====================================
+
+To: Editor-in-Chief, Applied Soft Computing
+
+Date: May 6, 2026
+
+Subject: Submission of Manuscript - "Modernized Bees Algorithm for Dynamic Path Planning in Robotics"
+
+---
+
+Dear Editor,
+
+I am pleased to submit my manuscript for consideration for publication in Applied Soft Computing.
+
+MANUSCRIPT DETAILS
+------------------
+Title: Modernized Bees Algorithm for Dynamic Path Planning in Robotics
+Authors: Mulham Fetnah
+Manuscript Type: Original Research Article
+
+---
+
+I confirm that this work is original and has not been published elsewhere, nor is it under consideration for publication in any other journal.
+
+WHY THIS PAPER FITS APPLIED SOFT COMPUTING
+------------------------------------------
+This paper presents a modernized implementation of the Bees Algorithm—a nature-inspired optimization technique—for robot path planning in dynamic environments. The work directly aligns with the journal's scope in:
+
+- Intelligent optimization algorithms - Novel extensions to the Bees Algorithm
+- Soft computing applications - Multi-objective optimization for robotics
+- Real-world applications - Path planning with dynamic obstacle avoidance
+
+KEY CONTRIBUTIONS
+-----------------
+1. Adaptive parameter tuning based on convergence state
+2. Multi-objective optimization (path length, safety, smoothness, energy)
+3. Real-time dynamic obstacle handling
+4. Comprehensive benchmark evaluation (100% success rate across 6 scenarios)
+5. Open-source implementation available on GitHub
+
+DECLARATIONS
+-----------
+- Funding: No funding received
+- Conflict of Interest: The author declares no conflict of interest
+- Ethics Approval: Not applicable
+- Data Availability: All data and code available at https://github.com/molhamfetnah/swarm-path-planning-bees
+
+---
+
+I look forward to your positive response.
+
+Sincerely,
+
+Mulham Fetnah
+Researcher, University of Aleppo
+Department of Mechatronics Engineering
+Syria
+
+Email: mulham.fetna@alepuniv.edu.sy
+GitHub: github.com/molhamfetnah
+
+---
+
+HIGHLIGHTS (for review process)
+-------------------------------
+- Modernized Bees Algorithm with adaptive parameter tuning for robotics
+- Multi-objective optimization balancing path length, safety, smoothness, and energy
+- Real-time dynamic obstacle handling with 100% success rate
+- Comprehensive evaluation across 6 benchmark scenarios (180 total runs)
+- Open-source implementation with ROS/Gazebo integration
