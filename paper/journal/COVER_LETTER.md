@@ -4,7 +4,7 @@
 
 **To:** Editor-in-Chief, Applied Soft Computing
 
-**Date:** [Insert Date]
+**Date:** May 6, 2026
 
 **Subject:** Submission of Manuscript - "Modernized Bees Algorithm for Dynamic Path Planning in Robotics"
 
